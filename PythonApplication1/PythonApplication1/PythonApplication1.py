@@ -147,3 +147,4 @@ if __name__ == '__main__':
         print()
         print(Puzzle.yon(from_state, to_state))
         print(to_state)
+        
